@@ -1,0 +1,30 @@
+Greybox Prototype
+    Game only uses grey boxes in a grey world
+    If gameplay loop is fun with grey boxes it will be fun with art, music, animations etc.
+
+Game Design
+    List out MVP and desirables in the game design
+
+Plan out scene objects
+    Draw what the scene is going to look like and make some pseudocode for how you are going to create the objects on the screen
+
+How to test HTML5 games and debug them
+
+Brute force debugging
+    Anything that prints to the screen is considered brute force debugging, if you are not doing brute force debugging, you are doing unit testing
+
+Godot Stretch > Viewport
+    Viewport will shrink or expand to be the same value as the value under Size > Width/Height
+
+Refactor # 1 Variable Extraction
+    Taking complex coding phrases and simplifyinig them with variables
+    Not hard coding everything in functinos and instead everything on the functions/methods will be variables
+        Makes code more readable
+    Makes code easier to read as it explains everything in a more readable way
+
+Refactor # 2 Variable Insertion
+    Taking a variable and inserting it into a coding phrases
+        The opposite of variable extration
+    Makes code cleaner because there are less lines
+
+Make your feature work and then refactor it to make it easier to read
